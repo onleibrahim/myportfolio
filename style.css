@@ -1,0 +1,114 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+
+    
+}
+
+h1{
+    color: black;
+    font-weight: bold;
+}
+
+header {
+    text-align: left;
+    width="120px"
+    height: 0px;
+    position: absolute;
+    top: 0; 
+    left: 0;
+    border-radius: 400%;
+    overflow: hidden; 
+    
+}
+
+
+
+
+
+nav {
+    background-color:gray;
+    display: block;
+    padding: 2px;
+}
+
+nav ul li {
+    list-style-type: disc;
+    list-style-position: inside;
+    display: inline-block;
+    padding: 50px;
+}
+p {
+padding-right: 25px;
+padding-left: 25px;
+margin-right: 25px;
+margin-left: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 10px;
+    
+}
+
+
+input[type="text"] {
+    padding: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color:whitesmoke;
+}
+
+
+input[type="number"] {
+    padding: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+
+input[type="email"] {
+    padding: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+textarea {
+    padding: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+button:hover {
+    background-color:red;
+}
+
+footer {
+    font-weight: bold;
+    background-color:burlywood;
+    text-align: center;
+}
+#Business {
+    margin-top: 50px; 
+}
+
+#Business p {
+    padding-right: 100px;
+padding-left: 100px;
+margin-right: 100px;
+margin-left: 100px;
+font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+#Business h2 {
+    font-size: 24px;
+    margin-bottom: 20px; 
+}
+.img1 {
+text-align: center;
+}
